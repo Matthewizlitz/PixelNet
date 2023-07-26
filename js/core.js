@@ -3,11 +3,11 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'BattleCraft';
+    let title = 'PixelNet';
 
     //Server Ip (counter)
-    var serverIp = 'play.foxcraft.net';
-    var serverIpPort = 25565;
+    var serverIp = 'Coming Soon!';
+    var serverIpPort = ;
 
     //Banner image (url) 
     var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
@@ -41,11 +41,11 @@ window.onload = function () {
     //--------------------------------------------
 
     //Social media links / banner (url)
-    var urlFacebook = "https://github.com/Tiagox42";
-    var urlTwiiter = "https://github.com/Tiagox42";
-    var urlInstagram = "https://www.instagram.com/tdantas42/";
-    var urlYoutube = "https://www.youtube.com/user/Tg42x/videos";
-    var discordInvite = "https://github.com/Tiagox42";
+    var urlFacebook = "";
+    var urlTwiiter = "";
+    var urlInstagram = "";
+    var urlYoutube = "";
+    var discordInvite = "";
     var bannerSocialImage = "https://i.imgur.com/oSbKvAT.png";
 
 
